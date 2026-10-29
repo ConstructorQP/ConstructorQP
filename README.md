@@ -12,10 +12,10 @@ Estudiante de **2º de ASIR** (Administración de Sistemas Informáticos en Red)
 
 | Proyecto | Descripción |
 |---|---|
-| [microsaas](https://github.com/ConstructorQP/microsaas) | Panel de gestión de clientes, productos y pedidos con Flask y SQLite. Login con contraseñas cifradas y exportación a Excel y PDF. |
-| [BLOG-ADMIN](https://github.com/ConstructorQP/BLOG-ADMIN) | Blog con vista pública y panel de administración (CRUD) en Flask. |
-| [POWERSHELL](https://github.com/ConstructorQP/POWERSHELL) | 30 scripts de administración de Windows: procesos, servicios, usuarios, logs e informes de CPU y RAM. |
-| [Python-2](https://github.com/ConstructorQP/Python-2) | De los fundamentos de Python a webs dinámicas con Flask, JSON y SQLite. |
+| [flask-microsaas](https://github.com/ConstructorQP/flask-microsaas) | Panel de gestión de clientes, productos y pedidos con Flask y SQLite. Login con contraseñas cifradas y exportación a Excel y PDF. |
+| [flask-blog-admin](https://github.com/ConstructorQP/flask-blog-admin) | Blog con vista pública y panel de administración (CRUD) en Flask. |
+| [scripts-powershell](https://github.com/ConstructorQP/scripts-powershell) | 30 scripts de administración de Windows: procesos, servicios, usuarios, logs e informes de CPU y RAM. |
+| [python-flask-web](https://github.com/ConstructorQP/python-flask-web) | De los fundamentos de Python a webs dinámicas con Flask, JSON y SQLite. |
 
 ## Formación
 
