@@ -1,5 +1,7 @@
 # Hola, soy Héctor Quirós Pérez
 
+[LinkedIn](https://www.linkedin.com/in/h%C3%A9ctor-quir%C3%B3s-p%C3%A9rez-a8a136398/) · [constructorqp@gmail.com](mailto:constructorqp@gmail.com) · [Web](https://constructorqp.github.io)
+
 Estudiante de **2º de ASIR** (Administración de Sistemas Informáticos en Red) con experiencia como **técnico informático y administrador de sistemas**. Me interesan la administración de servidores, las redes y, sobre todo, la **ciberseguridad**, que es hacia donde quiero orientar mi carrera.
 
 ## Tecnologías
