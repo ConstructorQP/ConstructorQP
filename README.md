@@ -40,4 +40,6 @@ Estudiante de **2º de ASIR** (Administración de Sistemas Informáticos en Red)
 
 ## Contacto
 
-- Email: hectorquirosperez@gmail.com
+- Web: [constructorqp.github.io](https://constructorqp.github.io)
+- LinkedIn: [Héctor Quirós Pérez](https://www.linkedin.com/in/h%C3%A9ctor-quir%C3%B3s-p%C3%A9rez-a8a136398/)
+- Email: constructorqp@gmail.com
