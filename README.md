@@ -4,9 +4,9 @@ Estudiante de **2º de ASIR** (Administración de Sistemas Informáticos en Red)
 
 ## 🛠️ Tecnologías
 
-**Sistemas y redes:** Linux (Ubuntu Server) · Windows · PowerShell · Batch · Docker · VirtualBox · MikroTik RouterOS
-**Servicios:** Apache · Nginx · vsftpd · MySQL / MariaDB · WordPress
-**Desarrollo:** Python · Flask · SQL · HTML · CSS · Jinja2 · JSON · XML
+- **Sistemas y redes:** Linux (Ubuntu Server) · Windows · PowerShell · Batch · Docker · VirtualBox · MikroTik RouterOS
+- **Servicios:** Apache · Nginx · vsftpd · MySQL / MariaDB · WordPress
+- **Desarrollo:** Python · Flask · SQL · HTML · CSS · Jinja2 · JSON · XML
 
 ## 📌 Proyectos destacados
 
