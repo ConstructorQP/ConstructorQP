@@ -14,6 +14,11 @@
 
 Estudiante de **2º de ASIR** (Administración de Sistemas Informáticos en Red) con experiencia como **técnico informático y administrador de sistemas**. Me interesan la administración de servidores, las redes y, sobre todo, la **ciberseguridad**, que es hacia donde quiero orientar mi carrera.
 
+## Formándome ahora
+
+- **CompTIA Network+ (N10-009)**: curso de preparación de Andrew Ramdayal en Udemy
+- **AI Cybersecurity & Governance**: Columbia University
+
 ## Tecnologías
 
 - **Sistemas:** Linux (Ubuntu Server, Debian) · Windows 11 · Windows Server · Bash · PowerShell · Batch
